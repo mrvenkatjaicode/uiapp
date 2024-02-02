@@ -216,7 +216,8 @@ class _HomeScreenState extends State<HomeScreen> {
                                 ),
                               ],
                             ),
-                            Image.asset("assest/cart.png")
+                            Image.network(
+                                "https://raw.githubusercontent.com/mrvenkatjaicode/uiapp/main/assest/cart.png?token=GHSAT0AAAAAACNWW6JU5DXKHD2S7ROKAGEYZN5DNAA")
                           ],
                         ),
                       ),
@@ -287,7 +288,8 @@ class _HomeScreenState extends State<HomeScreen> {
                                 ),
                               ],
                             ),
-                            Image.asset("assest/cart.png")
+                            Image.network(
+                                "https://raw.githubusercontent.com/mrvenkatjaicode/uiapp/main/assest/cart.png?token=GHSAT0AAAAAACNWW6JU5DXKHD2S7ROKAGEYZN5DNAA")
                           ],
                         ),
                       ),
